@@ -1,17 +1,17 @@
 {
-  "name": "mycli",
+  "name": "ashoka-cli",
   "version": "1.0.0",
   "description": "",
   "main": "./bin/index.js",
   "bin": {
-    "mycli": "./bin/index.js"
+    "ashoka-cli": "./bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "cli",
-    "mycli",
+    "ashok",
+    "ashoka-cli",
     "nodejs"
   ],
   "author": "Ashok",
